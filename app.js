@@ -1,5 +1,5 @@
 function saudar(nome) {
-  return `Olá, ${nome}!`; 
+  return `Oá, ${nome}!`; 
 }
 
 module.exports = { saudar };
